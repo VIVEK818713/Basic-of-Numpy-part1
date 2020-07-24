@@ -1,1 +1,0 @@
-# Basic-of-Numpy-part1
